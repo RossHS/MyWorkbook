@@ -18,7 +18,7 @@ changed the location of my old repository, where I try out various new technolog
 * [Kotlin core](https://github.com/RossHS/MyWorkbook/tree/master/src/kotlinCore)
 
 ## links to my solutions to task from the CodeWar site
-* [Task](https://github.com/RossHS/MyWorkbook/tree/master/src/exercises/codewars)
+* [Task](https://github.com/RossHS/MyWorkbook/tree/master/src/exercises)
 * [JUnit test for tasks](https://github.com/RossHS/MyWorkbook/tree/master/Test/exercises/codewars)
 
 ## Design patterns
